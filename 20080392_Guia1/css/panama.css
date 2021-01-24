@@ -1,0 +1,118 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/textura-papel-viejo-fondo-papel-vintage-vista-superior_88281-4010.jpg?size=626&ext=jpg&ga=GA1.2.1685177792.1602201600);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-size: 230%;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+}
+article{
+    background-color: darkgrey;
+    border-radius: 8%;
+}
+img{
+    border-radius: 8%;
+}
+.bandera1{
+    width: 27%;
+    margin-left: 1%;
+    margin-top: 5%;
+    
+}
+#bandera1{
+    margin-left: 30%;
+    margin-top: -20%;
+    margin-right: 50%;
+}
+.escudo1{
+    width: 18%;
+    margin-top: -25%;
+    margin-left: 55%;
+}
+#escudo1{
+    margin-left: 73%;
+    margin-right: 4%;
+    margin-top: -18%;
+}
+.flor1{
+    width: 22%;
+    height: 35%;
+    margin-top: 16%;
+    margin-left: 3%;
+}
+#Flor1{
+    margin-left: 26%;
+    margin-right: 50%;
+    margin-top: -17%;
+}
+.arbol1{
+    width: 22%;
+    height: 35%;
+    margin-top: -25%;
+    margin-left: 53%;
+}
+#arbol1{
+    margin-left: 76%;
+    margin-right: 2%;
+    margin-top: -20%;
+}
+.animal1{
+    width: 25%;
+    height: 35%;
+   margin-top: 9%;
+    margin-left: 28%;
+}
+#animal1{
+    margin-left: 55%;
+    margin-right: 20%;
+    margin-top: -16%;
+}
+#historia{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 8%;;
+    margin-bottom: 5%;
+}
+.extencion{
+    width: 25%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+#extencion{
+    margin-right: 40%;
+    margin-left: 23%;
+    margin-top: -8%;
+    text-align: center;
+}
+.turismo{
+    width: 25%;
+    height: 40%;
+    margin-top: -18%;
+    margin-left: 52%;
+}
+#turismo{
+    margin-left: 78%;
+    margin-right: 2%;
+    margin-top: -15%;
+}
+.departamentos{
+    width: 55%;
+    margin-bottom: 5%;
+}
+#departamentos{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 120%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}

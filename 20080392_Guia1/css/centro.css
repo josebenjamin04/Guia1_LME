@@ -1,0 +1,93 @@
+body{
+    background-image: url(https://energiatoday.com/wp-content/uploads/2020/02/nubes_rojas_1580903006-1024x768.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#menu{
+    background-color:black ;
+}
+#menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a{
+    color: white;
+    display: block;
+    padding: 20px 79.35px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+     background-color: #42BBB1;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+.salvador{
+    width: 100%;
+}
+#salvador{
+    margin-right: 55%;
+    margin-left: 15%;
+    background-color: white;
+    opacity: 80%;
+}
+.guate{
+    width: 100%;   
+}
+#guate{
+    margin-right: 15%;
+    margin-left: 55%;
+    margin-top: -32%; 
+    background-color: white;
+    opacity: 80%;  
+}
+.honduras{
+    width: 100%;   
+}
+#honduras{
+    margin-right: 55%;
+    margin-left: 15%;
+    margin-top: 3%;
+    background-color: white;
+    opacity: 80%;  
+}
+.nicaragua{
+    width: 100%;   
+}
+#nicaragua{
+    margin-right: 15%;
+    margin-left: 55%;
+    margin-top: -32%;   
+    background-color: white;
+    opacity: 80%;  
+}
+.panama{
+    width: 100%;   
+}
+#panama{
+    margin-right: 34%;
+    margin-left: 35%;
+    margin-top: 3%;
+    background-color: white;
+    opacity: 80%;  
+}
+aside{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 200%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 25px;
+    color: white;
+}

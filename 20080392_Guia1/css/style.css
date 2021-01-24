@@ -1,0 +1,122 @@
+body{
+    background-color: lightgray;
+}
+.img1{
+    width: 100%;
+    height: 40%;
+}
+h2{
+    text-align: center;
+    font-size: 400%;
+}
+h1{
+    text-align: center;
+    font-size: 400%;
+}
+.resu{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#harvey{
+    background-color: slategrey;
+    width: 26em;
+	height: 28em;
+	margin-left: 15em;
+}
+.harvey{
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.harvey1{
+    margin-left: 15%;
+    font-size: 150%;
+}
+#mike{
+    background-color: slategrey;
+    width: 22em;
+	height: 28em;
+    margin-left: 50em;
+    margin-top: -30%;
+}
+.mike{
+    margin-left: 8%;
+    margin-top: 3%;
+}
+.mike1{
+    margin-left: 15%;
+    font-size: 150%;
+    margin-top: -0.5%;
+}
+#donna{
+    background-color: slategrey;
+    width: 26em;
+	height: 31em;
+    margin-left: 15em;
+    margin-top: 5%;
+}
+.donna{
+    margin-left: 8%;
+    margin-top: 3%;
+    width: 80%;
+    height: 85%;
+}
+.donna1{
+    margin-left: 15%;
+    font-size: 150%;
+    margin-top: -0.1%;
+}
+#rachel{
+    background-color:slategrey;
+    width: 26em;
+	height: 30em;
+    margin-left: 50em;
+    margin-top: -33%;
+}
+.rachel{
+    margin-left: 8%;
+    margin-top: 3%;
+    width: 80%;
+    height: 85%;
+}
+.rachel1{
+  
+    font-size: 150%;
+    margin-top: -0.1%;
+    text-align: center;
+}
+#litt{
+    background-color: slategrey;
+    width: 26em;
+	height: 31em;
+    margin-left: 15em;
+    margin-top: 5%;
+}
+.litt{
+    margin-left: 8%;
+    margin-top: 3%;
+    width: 80%;
+    height: 85%;
+}
+.litt1{
+    margin-left: 15%;
+    font-size: 150%;
+    margin-top: -0.1%;
+}
+#jessica{
+    background-color: slategrey;
+    width: 26em;
+	height: 30em;
+    margin-left: 50em;
+    margin-top: -33%;
+}
+.jessica{
+    margin-left: 8%;
+    margin-top: 3%;
+    width: 87%;
+    height: 88%;
+}
+.jessica1{
+    font-size: 150%;
+    margin-top: -0.1%;
+    text-align: center;
+}
